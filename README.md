@@ -12,10 +12,9 @@ smart-parking-system/
 │   ├── assets/
 │   │   └── react.svg
 │   ├── components/
-│   │   ├── BookingForm.jsx      (optional - for future use)
-│   │   ├── Navbar.jsx            (optional - for future use)
-│   │   ├── SlotCard.jsx          (optional - for future use)
-│   │   └── SlotGrid.jsx          (optional - for future use)
+│   │   ├── BookingForm.jsx      
+│   │   ├── Navbar.jsx            
+│   │          
 │   ├── pages/
 │   │   ├── RegisterPage.jsx
 │   │   ├── LoginPage.jsx
