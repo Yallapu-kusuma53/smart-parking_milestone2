@@ -235,9 +235,9 @@ smart-parking-system/
 
 This project is open source and available for educational purposes.
 
-## 👨‍💻 Developer
+ 
 
-Built with ❤️ using React and Tailwind CSS
+ 
 
 ---
 
